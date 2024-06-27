@@ -13,8 +13,6 @@ Ví dụ trong trường hợp hồi quy tuyến tính đơn biến (chỉ có 1
 
 ## Phương trình hồi quy tuyến tính
 
-The linear regression equation is given by:
-
 \[ Y_i = \beta_0 + \beta_1 X_i \]
 
 where:
