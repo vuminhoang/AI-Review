@@ -13,13 +13,16 @@ Ví dụ trong trường hợp hồi quy tuyến tính đơn biến (chỉ có 1
 
 ## Phương trình hồi quy tuyến tính
 
-\[ Y_i = \beta_0 + \beta_1 X_i \]
+The linear regression equation is given by:
+
+$$ Y_i = \beta_0 + \beta_1 X_i $$
 
 where:
-- \( Y_i \) is the dependent variable,
-- \( \beta_0 \) is the intercept (constant),
-- \( \beta_1 \) is the slope (coefficient),
-- \( X_i \) is the independent variable.
+
+- $ Y_i $ is the dependent variable,
+- $ \beta_0 $ is the intercept (constant),
+- $ \beta_1 $ is the slope (coefficient),
+- $ X_i $ is the independent variable.
 
 
 
