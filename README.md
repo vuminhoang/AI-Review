@@ -16,3 +16,6 @@ Hi, I'm Vu Min Hoang, currently an AI Intern at JVB Vietnam and senior student a
 -  Thank the owner of the blog [Trí tuệ nhân tạo]((https://trituenhantao.io/) for providing intuitive examples of ML algorithms.
 -  The theoretical content of my work comes from synthesizing and filtering information. I have not made any original contributions in terms of theory.
 - Also thanks to the content from 365 Data Science. 
+
+### Materials
+-  [SuperDataScience (Notebook, Dataset, Slides)](https://www.superdatascience.com/pages/machine-learning)
