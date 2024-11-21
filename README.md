@@ -10,6 +10,9 @@ Hi, I'm Vu Min Hoang, currently an AI Intern at JVB Vietnam and senior student a
 -  Basic Deep Learning: Text and Image Processing, General Knowledge and Architecture of some of the most popular DL models, implement them with Pytorch.
 -  NLP Basic
 
+### My Notion Notes: 
+- Commonly used activation functions and optimizers: [Click Here](https://accurate-bandana-6b0.notion.site/Optimizers-and-activation-functions-474cccfb16b0496cb45deb67877ad0f3)
+
 
 ### Ref
 -  Special thanks to Mr Vu Van Tiep, owner of the blog [Machine Learning Cơ bản](https://machinelearningcoban.com/) for providing extensive knowledge on the mathematical aspects of machine learning.
