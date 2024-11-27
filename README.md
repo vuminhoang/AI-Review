@@ -14,6 +14,7 @@ btw, sometimes I mix up the terms loss function and cost function in my writing.
 
 ### My Notion Notes: 
 - Commonly used activation functions and optimizers: [Click Here](https://accurate-bandana-6b0.notion.site/Optimizers-and-activation-functions-474cccfb16b0496cb45deb67877ad0f3)
+- Concepts in LLM, GenAI: [Click Here](https://accurate-bandana-6b0.notion.site/M-t-s-concept-trong-GenAI-14bb29d8ebb18047823df72029e40bec?pvs=4)
 
 
 ### Ref
