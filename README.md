@@ -2,14 +2,14 @@
 
 
 ### About me:
-Hi, I'm Vu Min Hoang, currently an AI Intern at JVB Vietnam and senior student at Hanoi University of Science, VNU. I wrote this repo to review some basic knowledge about AI, ML, DL and NLP. 
+Hi, I'm Vu Min Hoang, currently an AI Engineer Intern at [Guess that hehee] and senior student at Hanoi University of Science, VNU. I wrote this repo to review some basic knowledge about AI, ML, DL and NLP. 
 
 btw, sometimes I mix up the terms loss function and cost function in my writing. Actually, their concepts are quite clear: the loss function measures the error on a single sample, while the cost function evaluates the overall performance on the entire dataset, typically as the average or the sum of the losses. I hope you can understand and overlook this.
 
 ### Contents:
 -  Basic ML: Concept of some ML algorithms, implement them in ipynb file using sklearn.
 -  General knowledge about OOP, a little Python project using OOP.
--  Basic Deep Learning: Text and Image Processing, General Knowledge and Architecture of some of the most popular DL models, implement them with Pytorch.
+-  Basic Deep Learning: Text and Image Processing, General Knowledge, and Architecture of some of the most popular DL models, implement them with Pytorch.
 -  NLP Basic
 
 ### My Notion Notes: 
