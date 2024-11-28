@@ -28,6 +28,7 @@ btw, sometimes I mix up the terms loss function and cost function in my writing.
 -  [Using Langchain to build AI Applications](https://github.com/emarco177/ice_breaker)
 -  [Langchain Document](https://python.langchain.com/docs/introduction/)
 -  [1001 RAG techniques](https://github.com/NirDiamant/RAG_Techniques?tab=readme-ov-file)
+-  [Graph RAG](https://github.com/pdichone/knowledge-graph-rag)
 
 The RAG techniques repo contains more than 20+ techniques from basic to advanced. 
 
