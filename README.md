@@ -25,5 +25,10 @@ btw, sometimes I mix up the terms loss function and cost function in my writing.
 
 ### Materials
 -  [SuperDataScience (Notebook, Dataset, Slides)](https://www.superdatascience.com/pages/machine-learning)
+-  [Using Langchain to build AI Applications](https://github.com/emarco177/ice_breaker)
+-  [Langchain Document](https://python.langchain.com/docs/introduction/)
+-  [1001 RAG techniques](https://github.com/NirDiamant/RAG_Techniques?tab=readme-ov-file)
+
+The RAG techniques repo contains more than 20+ techniques from basic to advanced. 
 
 
