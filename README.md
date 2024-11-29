@@ -4,7 +4,9 @@
 ### About me:
 Hi, I'm Vu Minh Hoang, currently an AI Engineer Intern at [Guess that hehee] and senior student at Hanoi University of Science, VNU. I wrote this repo to review some basic knowledge about AI, ML, DL and NLP. 
 
-btw, sometimes I mix up the terms loss function and cost function in my writing. Actually, their concepts are quite clear: the loss function measures the error on a single sample, while the cost function evaluates the overall performance on the entire dataset, typically as the average or the sum of the losses. I hope you can understand and overlook this.
+Btw, sometimes I mix up the terms loss function and cost function in my writing. Actually, their concepts are quite clear: the loss function measures the error on a single sample, while the cost function evaluates the overall performance on the entire dataset, typically as the average or the sum of the losses. I hope you can understand and overlook this.
+
+Notes: Most of what I write comes from things I’ve read somewhere and noted down. Therefore, the images and sometimes the content are things I’ve researched online and rewritten. I completely respect the copyrights of the original authors. This is simply a personal project to jot down interesting ideas in my own understanding, making it easier for me to review and revisit the knowledge later. It’s not intended to copy anyone’s work.
 
 ### Contents:
 -  Basic ML: Concept of some ML algorithms, implement them in ipynb file using sklearn.
@@ -18,10 +20,11 @@ btw, sometimes I mix up the terms loss function and cost function in my writing.
 
 
 ### Ref
--  Special thanks to Mr Vu Van Tiep, owner of the blog [Machine Learning Cơ bản](https://machinelearningcoban.com/) for providing extensive knowledge on the mathematical aspects of machine learning.
--  Thank the owner of the blog [Trí tuệ nhân tạo]((https://trituenhantao.io/) for providing intuitive examples of ML algorithms.
+-  Special thanks to Mr Vu Van Tiep, owner of the blog [Machine Learning Cơ bản](https://machinelearningcoban.com/) for providing extensive knowledge on the mathematical aspects of machine learning. 
+-  Thank the owner of the blog [Trí tuệ nhân tạo]((https://trituenhantao.io/), Viblo for providing intuitive examples of ML algorithms.
 -  The theoretical content of my work comes from synthesizing and filtering information. I have not made any original contributions in terms of theory.
-- Also thanks to the content from 365 Data Science. 
+- Also thanks to the content from 365 Data Science.
+- Thank to Mr. Tuan Anh Nguyen
 
 ### Materials
 -  [SuperDataScience (Notebook, Dataset, Slides)](https://www.superdatascience.com/pages/machine-learning)
