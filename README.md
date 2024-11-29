@@ -21,10 +21,10 @@ Notes: Most of what I write comes from things I’ve read somewhere and noted do
 
 ### Ref
 -  Special thanks to Mr Vu Van Tiep, owner of the blog [Machine Learning Cơ bản](https://machinelearningcoban.com/) for providing extensive knowledge on the mathematical aspects of machine learning. 
--  Thank the owner of the blog [Trí tuệ nhân tạo]((https://trituenhantao.io/), Viblo for providing intuitive examples of ML algorithms.
+-  Thank the owner of the blog [Trí tuệ nhân tạo](https://trituenhantao.io/), Viblo for providing intuitive examples of ML algorithms.
 -  The theoretical content of my work comes from synthesizing and filtering information. I have not made any original contributions in terms of theory.
 - Also thanks to the content from 365 Data Science.
-- Thank to Mr. Tuan Anh Nguyen
+- Thanks to Mr. Tuan Anh Nguyen for the contents in his NLP & Deep Learning Course. 
 
 ### Materials
 -  [SuperDataScience (Notebook, Dataset, Slides)](https://www.superdatascience.com/pages/machine-learning)
