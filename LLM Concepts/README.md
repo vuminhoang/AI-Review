@@ -8,4 +8,7 @@ Notions Notes: [Training LLMs]: trong này dự định sẽ gồm một vài k�
 
 50 LLM interview questions: [50 LLM Questions](https://www.linkedin.com/posts/bhavishya-pandit_50-llm-interview-questions-activity-7268119633180704769-ur2D?utm_source=share&utm_medium=member_desktop)
 
+### Update
+Hiện thì phiên bản đã khác nên code trong file LoRA không còn hoạt động nữa, mình sẽ tìm cách code lại phiên bản nào đó khác trong tương lai gần!
+
 
