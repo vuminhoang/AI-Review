@@ -11,4 +11,6 @@ Notions Notes: [Training LLMs]: trong này dự định sẽ gồm một vài k�
 ### Update
 Hiện thì phiên bản đã khác nên code trong file LoRA không còn hoạt động nữa, mình sẽ tìm cách code lại phiên bản nào đó khác trong tương lai gần!
 
+### Comments
+Có vẻ như LoRA chỉ tốt nếu pretrained model tốt, thật ra kết quả nó không khác quá nhiều so với predict luôn từ pretrained.
 
