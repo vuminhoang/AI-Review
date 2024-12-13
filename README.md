@@ -27,6 +27,7 @@ Notes: Most of what I write comes from things I’ve read somewhere and noted do
 - Thanks to Mr. Tuan Anh Nguyen for the contents in his NLP & Deep Learning Course. 
 
 ### Materials
+- [Standford NLP Course CS224N]((https://www.superdatascience.com/pages/machine-learning).
 -  [SuperDataScience (Notebook, Dataset, Slides)](https://www.superdatascience.com/pages/machine-learning)
 -  [Using Langchain to build AI Applications](https://github.com/emarco177/ice_breaker)
 -  [Langchain Document](https://python.langchain.com/docs/introduction/)
