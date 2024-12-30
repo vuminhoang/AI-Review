@@ -3,6 +3,11 @@ Wandb (Weights and Biases) is a powerful tool for tracking and visualizing machi
 It integrates with some popular DL frameworks like PyTorch and Keras Tensorflow...
 providing an easy way to monitor the training process and share results with your team or community.
 
+## Some similar tools
+1. Comet ml
+- Similar to Wandb, relies on external servers for storing and visualizing logs, making it ideal for collaborative and cloud-based workflows.
+3. TensorBoard
+- TensorBoard works seamlessly with local setups and does not require cloud integration. Moreover, if you are using the `Trainer API` from HuggingFace, you can directly leverage TensorBoard for monitoring without additional setup.
 ## How to use
 
 ### 1. Login 
