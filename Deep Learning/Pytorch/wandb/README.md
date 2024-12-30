@@ -4,6 +4,8 @@ It integrates with some popular DL frameworks like PyTorch and Keras Tensorflow.
 providing an easy way to monitor the training process and share results with your team or community.
 
 ## How to use
+
+### 1. Login 
 - Visit their website at https://wandb.ai/site/
 - Log in or sign up.
 - In your notebook or python file:
@@ -12,13 +14,14 @@ import wandb
 wandb.login()
 ```
 - Click in the link that they provides, you will automatically receive the login token. Use it to continue!
-- Define log metric:
+
+### 2. Define metrics
 ```
 wandb.log({"loss": loss, "accuracy": accuracy})
 ```
 Or you can enter any metrics that you want to track!
 
-- Define init:
+### 3. Define wandb init: 
 ```
 wandb.init(
       # your project on website name
