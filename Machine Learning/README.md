@@ -25,5 +25,6 @@ Higher variance means that the model is too sensitive to the training data, capt
 ## 2. Visualizing Overfitting and Underfitting
 
 ![Bias and Variance](images/bias_and_var.png)
-*Đây là mô tả về vấn đề overfitting và underfitting với bias và variance.*
+
+*Visulizing overfitting and underfitting problem*
 
