@@ -3,3 +3,5 @@ For more details, check: https://github.com/solegalli/feature-engineering-for-ma
 
 ## Missing Values
 - More about MAR, MCAR, MNAR: https://www.linkedin.com/pulse/difference-between-mar-mcar-mnar-missing-data-zakarie-a-hashi/
+
+- Distribution: https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm
