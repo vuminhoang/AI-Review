@@ -1,5 +1,5 @@
 ## AI Basic Review
-
+A tool that can analyze any gitub repo: https://gitdiagram.com/
 
 ### About me:
 Hi, I'm Vu Minh Hoang, currently an AI Engineer Intern at [Guess that hehee] and senior student at Hanoi University of Science, VNU. I wrote this repo to review some basic knowledge about AI, ML, DL and NLP. 
