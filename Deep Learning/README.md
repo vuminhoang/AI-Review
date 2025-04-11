@@ -1,2 +1,2 @@
 # Some vnmese embedding models
-![Embedding models](images/embedding.png)
+![Embedding models](images/embedding.jpg)
