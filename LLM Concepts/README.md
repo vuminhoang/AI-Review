@@ -12,5 +12,8 @@ Notions Notes: [Training LLMs]: trong này dự định sẽ gồm một vài k�
 Hiện thì phiên bản đã khác nên code trong file LoRA không còn hoạt động nữa, mình sẽ tìm cách code lại phiên bản nào đó khác trong tương lai gần!
 
 ### Comments
-- Unsloth public rất nhiều notebook hướng dẫn finetune các LLM với LoRA, chi tiết https://github.com/unslothai/unsloth
+- Unsloth public rất nhiều notebook hướng dẫn finetune các LLM với LoRA, chi tiết https://github.com/unslothai/unslothhttps://www.promptingguide.ai/techniques
+- Prompt techniques: https://www.promptingguide.ai/techniques
+- Huggingface Agent Course: https://huggingface.co/learn/agents-course/unit0/introduction
+- Huggingface Reasoning Course: https://huggingface.co/reasoning-course
 
