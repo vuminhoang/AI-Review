@@ -16,4 +16,5 @@ Hiện thì phiên bản đã khác nên code trong file LoRA không còn hoạt
 - Prompt techniques: https://www.promptingguide.ai/techniques
 - Huggingface Agent Course: https://huggingface.co/learn/agents-course/unit0/introduction
 - Huggingface Reasoning Course: https://huggingface.co/reasoning-course
+- Anthropics Course about Agents (include prompt engineering): https://github.com/anthropics/courses/tree/master
 
