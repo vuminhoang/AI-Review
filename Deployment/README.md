@@ -3,7 +3,7 @@ Một model nằm trên notebooks là một model chết, nói chung trong đây
 
 ## Một vài thứ sẽ được đề cập trong đây
 - [x] Pyngrok + Flask app: Deploy model nhưng vẫn tận dụng được GPU của Colab.
-- [ ]  Docker
+- [x]  Docker
 - [ ]  Tạo API với Flask
-- [ ] Tạo API với Fast API
+- [x] Tạo API với Fast API
 - [x] Streamlit: Siêu mở đầu, có lẽ ai cũng đã biết :D nên mình skip luôn cho khỏe
